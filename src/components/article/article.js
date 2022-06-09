@@ -156,7 +156,6 @@ function articleMaker(article) {
   articleDiv.appendChild(text2);
   articleDiv.appendChild(text3);
   articleDiv.appendChild(expandSpan);
-  console.log(articleDiv);
 
   return articleDiv;
 }
